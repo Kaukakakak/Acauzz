@@ -3,7 +3,7 @@ pkg upgrade
 cd
 git clone https://github.com/Admcauss-alt/Acauzz
 clear
-cd ./Acauzz.
+cd ./Acauzz
 bash install.sh
 cd
 cd ./Acauzz
