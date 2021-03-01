@@ -1,7 +1,7 @@
 #!/usr/bin/bash
 pkg upgrade
 cd
-git clone https://github.com/Admcauss-alt/Acauzz-
+git clone https://github.com/Admcauss-alt/Acauzz
 clear
 cd ./Acauzz.
 bash install.sh
