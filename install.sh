@@ -6,7 +6,7 @@ clear
 cd ./Acauzz.
 bash install.sh
 cd
-cd ./Acauzz-
+cd ./Acauzz
 npm start
 
 echo "[*] obrigado por utilizar o bot \"Caussbot\" causs agradece"
